@@ -44,6 +44,6 @@
 
 <div class="bottom-wrapper">
 	<div class="bottom">
-		<p>&copy; 2021 | All Rights Reserved | Powered by <a href="http://rgsolutions.net.in">R G Solutions</a> </p>
+		<p>&copy; 2021 | All Rights Reserved </p>
 	</div>
 </div>
